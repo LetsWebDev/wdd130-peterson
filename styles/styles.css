@@ -1,0 +1,24 @@
+:root {
+  /* change the values below to your colors from your palette */
+  --primary-color: #55aaff   ;
+  --secondary-color: #aa55ff ;
+  --accent1-color: #5555ff;
+  --accent2-color: #5555aa;
+
+  /* change the values below to your chosen font(s) */
+  --heading-font: "Geostar";
+  --paragraph-font: "Tektur", sans-serif;
+}
+
+*{
+  font-family: "Tektur";
+}
+
+h1{
+  font-family: "Geostar";
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
